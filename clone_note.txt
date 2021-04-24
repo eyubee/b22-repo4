@@ -1,0 +1,5 @@
+just created empty remote repo from GitHub.com account 
+
+and cloned this repostitory by clicking on set up in desktop and (optionally select the location ) click on clone
+
+it clones the new remote repo to the local so can edit the code
